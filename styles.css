@@ -1,0 +1,51 @@
+
+
+div {
+    border-style: dashed;
+    border-color: blue;
+    border-width: 3px;
+    padding: 25px;
+    margin-bottom: 10px;
+    background-color: hsl(219, 79%, 66%, 20%);
+    box-shadow: 5px 10px hsl(182, 25%, 50%, 90%);
+}
+
+img {
+    border-style: solid;
+    border-color: blue;
+    border-width: 2px;
+}
+
+:not(p) {
+    font-size: 25px;
+    color: rgb(48, 41, 95);
+    font-family: 'Knewave';
+}
+
+li {
+    font-weight: bold;
+    font-style: italic;
+    font-size: 15px;
+    font-family: 'preconnet';
+    color: rgb(112, 146, 112);
+    margin: 10px;
+}
+
+h1 {
+    font-size: 60px;
+    font-family: 'Lobster', cursive;
+    color: darkolivegreen;
+}
+    
+    
+h2 {
+    font-size: 40px;
+    font-family: 'Lobster', cursive;
+    color: rgb(63, 63, 63);
+    margin-bottom: 10px;
+}
+
+a {
+    font-size: 15px;
+}
+
